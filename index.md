@@ -10,3 +10,8 @@ To add a code block into Markdown, I must enclose it within three backticks:
 for i in range(5):
   print('You are amazing!')
 ```
+
+Let's add a task list:
+- [x] Wake up in the morning
+- [x] Write P4 Thermodynamics I Flashcards
+- [ ] Finish Markdown tutorial
